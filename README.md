@@ -23,10 +23,10 @@ I like:
 
 Some areas I've worked on include:
 
-* Legged robots and multi-DOF motion systems
+* Legged robots and multi‑DOF motion systems
 * Autonomous rovers and simulation environments
 * Perception pipelines using cameras and onboard AI models
-* Navigation, mapping, and path-planning tools
+* Navigation, mapping, and path‑planning tools
 * Swarm robotics and distributed systems
 * Custom ROS2 packages for sensors, control, and system structure
 
