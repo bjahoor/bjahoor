@@ -6,7 +6,6 @@
 
 <p align="center">
   <b>Mechatronics Engineering Student @ University of Waterloo</b><br/>
-  ⚙️ ROS2 • 💻 C++ • 🐍 Python
 </p>
 
 <p align="center">
