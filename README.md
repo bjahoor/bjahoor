@@ -5,8 +5,7 @@
 <h1 align="center">Hi, I'm Brandon 👋</h1>
 
 <p align="center">
-  <b>Robotics Engineering Student @ University of Waterloo</b><br/>
-  </p>
+  <b>Robotics Engineering Student @ University of Waterloo</b></p>
 
 ---
 
