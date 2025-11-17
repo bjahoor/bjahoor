@@ -9,7 +9,8 @@
 
 ## About
 
-I'm a Robotics Engineering student at the University of Waterloo with experience working across software, hardware, and perception in modern robotic systems. I enjoy building reliable, well-structured systems and exploring how different components—sensing, control, and behavior—fit together to create intelligent robots.
+Robotics Engineering student interested in building systems that combine sensing, control, and intelligent behavior. I enjoy working across both software and hardware to make robots more capable in real-world environments.
+
 
 
 I like:
