@@ -1,49 +1,79 @@
 <h1 align="center">Hi, I'm Brandon 👋</h1>
 
 <p align="center">
-  <b>Robotics & Computer Vision Developer</b><br/>
-  ROS2 • C++ • Python • AI Perception • RealSense
+  <b>Robotics Engineer & Developer</b><br/>
+  ROS2 • C++ • Python • Systems • Perception
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a robotics and perception-focused developer passionate about building intelligent systems that interact with the physical world.  
-My work centers on **ROS2**, **camera pipelines**, **AI-enabled perception**, and **embedded robotics**.
+I'm a robotics engineer who enjoys building end-to-end robotic systems — from low-level control and hardware integration to perception, autonomy, and deployment.
 
-- 🤖 Working with ROS2 (Humble) on robotics platforms  
-- 🎥 Building real-time camera + AI pipelines  
-- 🧠 Interested in applied CV/AI for robotics  
-- 🌱 Constantly exploring autonomy, mapping, and system design  
+I like working across the full stack of robotics:
+
+- 🤖 Designing and integrating ROS2-based robotic systems  
+- 🧭 Working on control, navigation, and system behavior  
+- 🎥 Developing and integrating perception pipelines when needed  
+- 🛠️ Building, debugging, and iterating on real robots  
 - 📍 Based in Canada  
 
 ---
 
 ## 🔧 Tech Stack
 
-**Robotics & Systems:** ROS2, RealSense, Linux, Colcon  
+**Robotics & Systems:** ROS2, Linux, sensor integration, robotics middleware  
 **Programming:** C++, Python  
-**AI & CV:** OpenCV, PyTorch (project-dependent), image processing pipelines  
-**Tools:** Git, VSCode, Launch files, GitHub Pages, Bash  
+**Perception & Processing:** OpenCV, image processing, camera pipelines  
+**Tools & Workflow:** Git, VSCode, Bash, GitHub, simulation / debugging tools  
 
 ---
 
 ## 📦 Featured Projects
 
-### 📸 AI Camera Package (ROS2)
-AI-powered ROS2 camera pipeline combining perception modules with real-time image transport.  
-> Python + C++ • ROS2 Humble • Computer Vision
-
-### 🎥 RealSense Camera Package (ROS2)
-A ROS2 package for Intel RealSense camera streaming, processing, and transport features.
-
 ### 🛞 ROS2 Rover Platform
-A full ROS2-based rover system with navigation, control nodes, and sensor integration.
+A ROS2-based rover system that brings together control, navigation-related nodes, and sensor integration into a cohesive robotic platform.
+
+- Robot bring-up and node structure  
+- Modular ROS2 package design  
+- Extensible base for future autonomy work  
+
+---
+
+### 📸 AI / Perception Camera Package (ROS2)
+A ROS2 package for integrating camera perception into a larger robotics system.
+
+- Real-time image processing in ROS2  
+- C++ and Python nodes for flexibility  
+- Designed to plug into broader robot stacks  
+
+---
+
+### 🎥 RealSense Camera Integration (ROS2)
+A focused ROS2 package for Intel RealSense camera streaming and integration.
+
+- Sensor node setup and configuration  
+- Topics, frames, and message flow designed for robotics use  
+- Useful as a building block in multi-sensor robots  
+
+---
 
 ### 🌐 Portfolio Website
-My personal portfolio + resume, hosted via GitHub Pages.  
-➡️ *Once deployed, link it here!*  
+A simple portfolio + resume site hosted with GitHub Pages.
+
+- Central place for my robotics work and background  
+- Easy to share with recruiters and collaborators  
+
+---
+
+## 🧠 What I Like Working On
+
+- End-to-end robotic systems (from hardware to high-level behavior)  
+- Clean ROS2 architectures and node graphs  
+- Control, navigation, and state machines  
+- Perception and sensor fusion when it supports the overall system  
+- Making robots more reliable, understandable, and maintainable  
 
 ---
 
@@ -67,13 +97,4 @@ Feel free to reach out or connect:
 
 ---
 
-## 🏗️ What I'm Working On
-
-- Improving AI perception modules for ROS2  
-- Expanding rover autonomy + mapping  
-- Enhancing documentation and tutorial content  
-- Building out my robotics project portfolio  
-
----
-
-Thanks for visiting — feel free to explore my projects or reach out!  
+Thanks for stopping by — feel free to explore my projects or reach out about robotics work!
