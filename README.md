@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="120" alt="Robot animation"/>
+  <img src="https://cdn-uploads.huggingface.co/production/uploads/67b8da81d01134f89899b4a7/JcqU-GuWf_yLQBQh9xrCp.gif" width="120" alt="Robot animation"/>
 </p>
 
 <h1 align="center">Hi, I'm Brandon 👋</h1>
@@ -35,15 +35,6 @@ I’m especially interested in <span style="color:#4da6ff;">robotic systems</spa
 
 ---
 
-### 🔍 Currently Exploring
-
-- ROS2 navigation and planning  
-- Jetson-based onboard perception  
-- Multi-robot and swarm-style coordination  
-- Better tools for debugging and visualizing robot behaviour  
-
----
-
 ## 🛠️ Projects
 
 Some areas I've explored through teams and personal projects include:
@@ -55,15 +46,6 @@ Some areas I've explored through teams and personal projects include:
 - 🤝 Swarm robots and distributed coordination  
 - 🧪 Custom ROS2 software for sensing, control, and system structure  
 
-<details>
-  <summary>📖 More about projects</summary>
-
-  - Worked on legged, wheeled, and swarm platforms using ROS2.  
-  - Built pipelines that connect perception to decision-making and control.  
-  - Used simulation and real hardware to test ideas before deploying.  
-
-</details>
-
 ---
 
 ## 🌐 Website
@@ -71,19 +53,6 @@ Some areas I've explored through teams and personal projects include:
 You can find my portfolio and projects here:
 
 **https://bjahoor.github.io/**
-
----
-
-## 📸 (Optional) Project Snapshots
-
-<!--
-Replace these image links with your own project photos or GIFs
-
-<p align="center">
-  <img src="https://via.placeholder.com/220x140.png?text=Hexapod+Robot" width="220" />
-  <img src="https://via.placeholder.com/220x140.png?text=Autonomous+Rover" width="220" />
-</p>
--->
 
 ---
 
