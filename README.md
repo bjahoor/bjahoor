@@ -9,35 +9,32 @@
 
 ## About
 
-I love building things that move, sense, and react to the world. Over time, that interest has grown into studying robotics engineering, where I get to combine software, hardware, and systems thinking. I enjoy tackling problems across the robotics stack and learning how each part contributes to intelligent behavior.
+I'm a Robotics Engineering student who enjoys working across the full robotics stack — combining sensing, control, software, and hardware to build systems that behave intelligently in the real world. I like taking on projects where multiple components come together and where thoughtful structure makes robots more capable, reliable, and adaptable.
 
+Areas I enjoy working on:
 
-
-
-I like:
-
-* Building and organizing ROS2-based systems
-* Working with sensors and robot systems
-* Exploring control, behavior, and system structure
+* Designing and organizing ROS2-based systems
+* Integrating sensors and building diverse robotic components
+* Exploring control, autonomy, and system behaviour
 
 ---
 
 ## Projects
 
-Some areas I've worked on include:
+Some areas I've explored through teams and personal projects include:
 
 * Legged robots and multi‑DOF motion systems
 * Autonomous rovers and simulation environments
-* Perception pipelines using cameras and onboard AI models
+* Perception pipelines with cameras and onboard AI models
 * Navigation, mapping, and path‑planning tools
-* Swarm robotics and distributed systems
-* Custom ROS2 packages for sensors, control, and system structure
+* Swarm robots and distributed coordination
+* Custom ROS2 software for sensing, control, and system structure
 
 ---
 
 ## Website
 
-You can find my portfolio and projects here:
+For full write‑ups, demos, and more details:
 
 **[https://bjahoor.github.io/](https://bjahoor.github.io/)**
 
