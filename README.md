@@ -1,88 +1,67 @@
 <h1 align="center">Hi, I'm Brandon 👋</h1>
 
 <p align="center">
-  <b>Robotics Engineer & Developer</b><br/>
-  ROS2 • C++ • Python • Systems • Perception
+  <b>Robotics Engineer</b><br/>
+  ROS2 • C++ • Python
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a robotics engineer who enjoys building end-to-end robotic systems — from low-level control and hardware integration to perception, autonomy, and deployment.
+I'm a robotics engineer who enjoys working across different parts of a robotics stack. I like building systems that are reliable, well-structured, and adaptable — whether that's integrating sensors, developing control logic, or creating tools that help a robot better understand its environment.
 
-I like working across the full stack of robotics:
-
-- 🤖 Designing and integrating ROS2-based robotic systems  
-- 🧭 Working on control, navigation, and system behavior  
-- 🎥 Developing and integrating perception pipelines when needed  
-- 🛠️ Building, debugging, and iterating on real robots  
-- 📍 Based in Canada  
+* 🤖 Developing and organizing ROS2-based systems
+* 🛠️ Working with sensors, hardware, and robot bring‑up
+* 🧭 Exploring behavior design, navigation, and system architecture
+* 🎥 Occasionally working with perception when the project calls for it
+* 📍 Based in Canada
 
 ---
 
 ## 🔧 Tech Stack
 
-**Robotics & Systems:** ROS2, Linux, sensor integration, robotics middleware  
-**Programming:** C++, Python  
-**Perception & Processing:** OpenCV, image processing, camera pipelines  
-**Tools & Workflow:** Git, VSCode, Bash, GitHub, simulation / debugging tools  
+**Robotics & Systems:** ROS2, Linux, sensor integration
+**Programming:** C++, Python
+**Tools & Workflow:** Git, VSCode, Launch files, Bash, GitHub
 
 ---
 
 ## 📦 Featured Projects
 
 ### 🛞 ROS2 Rover Platform
-A ROS2-based rover system that brings together control, navigation-related nodes, and sensor integration into a cohesive robotic platform.
 
-- Robot bring-up and node structure  
-- Modular ROS2 package design  
-- Extensible base for future autonomy work  
+A modular ROS2-based rover combining control logic, system bring‑up, and sensor integration. Designed as a flexible base for experimenting with autonomy and system behaviors.
 
 ---
 
-### 📸 AI / Perception Camera Package (ROS2)
-A ROS2 package for integrating camera perception into a larger robotics system.
+### 🎥 Camera & Perception Tools (ROS2)
 
-- Real-time image processing in ROS2  
-- C++ and Python nodes for flexibility  
-- Designed to plug into broader robot stacks  
-
----
-
-### 🎥 RealSense Camera Integration (ROS2)
-A focused ROS2 package for Intel RealSense camera streaming and integration.
-
-- Sensor node setup and configuration  
-- Topics, frames, and message flow designed for robotics use  
-- Useful as a building block in multi-sensor robots  
+Lightweight ROS2 packages for handling camera streams and integrating basic perception where useful within a broader robotic system.
 
 ---
 
 ### 🌐 Portfolio Website
-A simple portfolio + resume site hosted with GitHub Pages.
 
-- Central place for my robotics work and background  
-- Easy to share with recruiters and collaborators  
+A simple portfolio + resume site hosted with GitHub Pages. Once deployed, this will serve as a hub for my robotics work.
 
 ---
 
-## 🧠 What I Like Working On
+## 🧠 What I’m Interested In
 
-- End-to-end robotic systems (from hardware to high-level behavior)  
-- Clean ROS2 architectures and node graphs  
-- Control, navigation, and state machines  
-- Perception and sensor fusion when it supports the overall system  
-- Making robots more reliable, understandable, and maintainable  
+* Building clean, maintainable robotics systems
+* Improving robot behavior, control, and structure
+* Designing scalable ROS2 architectures
+* Working across both software and hardware aspects of robotics
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjahoor&layout=compact&theme=transparent)
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjahoor\&layout=compact\&theme=transparent)
+
 </div>
 
 ---
@@ -91,10 +70,10 @@ A simple portfolio + resume site hosted with GitHub Pages.
 
 Feel free to reach out or connect:
 
-- **Email:** *(add your email here)*  
-- **LinkedIn:** *(add your LinkedIn link)*  
-- **Portfolio:** *(add link once GitHub Pages is deployed)*  
+* **Email:** *(add your email here)*
+* **LinkedIn:** *(add your LinkedIn link)*
+* **Portfolio:** *(add link once GitHub Pages is deployed)*
 
 ---
 
-Thanks for stopping by — feel free to explore my projects or reach out about robotics work!
+Thanks for visiting — feel free to explore my projects or reach out!
