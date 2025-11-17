@@ -34,7 +34,7 @@ Some areas I've explored through teams and personal projects include:
 
 ## Website
 
-For full write‑ups, demos, and more details:
+You can find my portfolio and projects here:
 
 **[https://bjahoor.github.io/](https://bjahoor.github.io/)**
 
