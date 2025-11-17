@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Brandon 👋</h1>
 
 <p align="center">
-  <b>Robotics Engineer</b><br/>
+  <b>Robotics Engineering Student</b><br/>
   ROS2 • C++ • Python
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a robotics engineer who enjoys working across different parts of a robotics stack. I like building systems that are reliable, well-structured, and adaptable — whether that's integrating sensors, developing control logic, or creating tools that help a robot better understand its environment.
+I'm a Robotics Engineering student at the University of Waterloo who enjoys working across different parts of a robotics stack. I like building systems that are reliable, well-structured, and adaptable — whether that's integrating sensors, developing control logic, or creating tools that help a robot better understand its environment.
 
 * 🤖 Developing and organizing ROS2-based systems
 * 🛠️ Working with sensors, hardware, and robot bring‑up
