@@ -9,7 +9,8 @@
 
 ## About
 
-Robotics Engineering student interested in building systems that combine sensing, control, and intelligent behavior. I enjoy working across both software and hardware to make robots more capable in real-world environments.
+I love building things that move, sense, and react to the world. Over time, that interest has grown into studying robotics engineering, where I get to combine software, hardware, and systems thinking. I enjoy tackling problems across the robotics stack and learning how each part contributes to intelligent behavior.
+
 
 
 
