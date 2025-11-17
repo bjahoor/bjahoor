@@ -56,23 +56,11 @@ A simple portfolio + resume site hosted with GitHub Pages. Once deployed, this w
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 Website
 
-<div align="center">
+You can find my portfolio and projects here:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjahoor\&layout=compact\&theme=transparent)
-
-</div>
-
----
-
-## 📫 Contact
-
-Feel free to reach out or connect:
-
-* **Email:** *(add your email here)*
-* **LinkedIn:** *(add your LinkedIn link)*
-* **Portfolio:** *(add link once GitHub Pages is deployed)*
+**[https://bjahoor.github.io/](https://bjahoor.github.io/)**
 
 ---
 
