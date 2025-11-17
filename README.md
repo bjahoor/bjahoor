@@ -9,7 +9,8 @@
 
 ## About
 
-I'm a robotics engineering student who enjoys working across the robotics stack — from integrating sensors and hardware to writing software that makes robots more capable and reliable.
+I'm a Robotics Engineering student at the University of Waterloo with experience working across software, hardware, and perception in modern robotic systems. I enjoy building reliable, well-structured systems and exploring how different components—sensing, control, and behavior—fit together to create intelligent robots.
+
 
 I like:
 
