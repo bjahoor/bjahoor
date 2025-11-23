@@ -23,7 +23,7 @@
 
 ## 🚀 About
 
-I'm a Mechatronics Engineering student with a strong focus on robotics. I enjoy working across the full robotics stack — combining sensing, control, software, and hardware to build systems that behave intelligently in the real world. I like taking on projects where multiple components come together and where thoughtful structure makes robots more capable, reliable, and adaptable.
+I'm a Mechatronics Engineering student with a strong focus on robotics. I enjoy working across the full robotics stack - combining sensing, control, software, and hardware to build systems that behave intelligently in the real world. I like taking on projects where multiple components come together and where thoughtful structure makes robots more capable, reliable, and adaptable.
 
 I’m especially interested in <span style="color:#4da6ff;">robotic systems</span>, <span style="color:#4da6ff;">autonomy</span>, and <span style="color:#4da6ff;">perception-driven behaviour</span>.
 
