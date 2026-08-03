@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <i>I build robots that perceive and act on their own.</i>
+  <i>I'm the guy who makes robots actually do things.</i>
 </p>
 
 <br/>
