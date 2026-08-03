@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/SO--ARM101-8A63D2?style=flat-square" alt="SO-ARM101"/>
   <img src="https://img.shields.io/badge/RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/SolidWorks-D51920?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
   <br/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square" alt="LeRobot"/>
