@@ -51,4 +51,6 @@
 
 <p align="center">
   <img src="SO-ARM101-ACT-DEMO.gif" width="460" alt="SO-ARM101 robotic arm autonomously picking and placing a block using a learned ACT policy"/>
+  <br/>
+  <sub>SO-ARM101 running an ACT policy trained with LeRobot — overhead RealSense perception, closed-loop on an Nvidia Jetson.</sub>
 </p>
