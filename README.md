@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="SO-ARM101-ACT-DEMO.gif" width="460" alt="SO-ARM101 robotic arm autonomously picking and placing a block using a learned ACT policy"/>
-</p>
-
 <h1 align="center">Brandon Jahoor</h1>
 
 <p align="center">
@@ -12,8 +8,6 @@
 <p align="center">
   <i>I'm the guy who makes robots actually do things.</i>
 </p>
-
-<br/>
 
 <p align="center">
   <a href="https://bjahoor.github.io/">
@@ -27,6 +21,12 @@
 
 <p align="center">
   <sub>Projects · Experience · Resume — all live over there</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="SO-ARM101-ACT-DEMO.gif" width="460" alt="SO-ARM101 robotic arm autonomously picking and placing a block using a learned ACT policy"/>
 </p>
 
 <br/>
