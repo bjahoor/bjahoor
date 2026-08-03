@@ -33,8 +33,9 @@
   <img src="https://img.shields.io/badge/RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense"/>
   <img src="https://img.shields.io/badge/SO--ARM101-8A63D2?style=flat-square" alt="SO-ARM101"/>
   <img src="https://img.shields.io/badge/llama.cpp-0F9D8F?style=flat-square" alt="llama.cpp"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,cpp,py,opencv,pytorch,docker,linux,raspberrypi&theme=dark&perline=8" alt="ROS2, C++, Python, OpenCV, PyTorch, Docker, Linux, Raspberry Pi"/>
+  <img src="https://skillicons.dev/icons?i=ros,cpp,py,opencv,pytorch,docker,linux,ubuntu,raspberrypi,vscode,linkedin&theme=dark&perline=11" alt="ROS2, C++, Python, OpenCV, PyTorch, Docker, Linux, Ubuntu, Raspberry Pi, VS Code, LinkedIn"/>
 </p>
