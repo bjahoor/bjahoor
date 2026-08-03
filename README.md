@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://bjahoor.github.io/resume.pdf">
-    <img src="https://img.shields.io/badge/RESUME-2ea043?style=for-the-badge&logoColor=white" height="42" alt="Resume"/>
+    <img src="https://img.shields.io/badge/RESUME-57606a?style=for-the-badge&logoColor=white" height="42" alt="Resume"/>
   </a>
   &nbsp;
   <a href="https://bjahoor.github.io/">
