@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>Projects · Experience · Resume — all live over there</sub>
-</p>
-
 <br/>
 
 <p align="center">
