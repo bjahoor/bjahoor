@@ -27,17 +27,13 @@
   <img src="https://img.shields.io/badge/SO--ARM101-8A63D2?style=flat-square" alt="SO-ARM101"/>
   <img src="https://img.shields.io/badge/RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square" alt="LeRobot"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/llama.cpp-0F9D8F?style=flat-square" alt="llama.cpp"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
