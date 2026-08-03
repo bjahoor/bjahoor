@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square" alt="LeRobot"/>
   <img src="https://img.shields.io/badge/RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense"/>
   <img src="https://img.shields.io/badge/SO--ARM101-8A63D2?style=flat-square" alt="SO-ARM101"/>
+  <img src="https://img.shields.io/badge/llama.cpp-0F9D8F?style=flat-square" alt="llama.cpp"/>
 </p>
 
 <br/>
