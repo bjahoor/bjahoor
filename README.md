@@ -64,16 +64,6 @@
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=bjahoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=bjahoor&layout=compact&theme=default&hide_border=true&langs_count=6"/>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bjahoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
   <a href="https://linkedin.com/in/bjahoor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bjahoor@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://bjahoor.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
