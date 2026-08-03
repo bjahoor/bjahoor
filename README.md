@@ -1,7 +1,6 @@
 <h1 align="center">Brandon Jahoor</h1>
 
 <p align="center">
-  <b>Robotics · Perception · Autonomy</b><br/>
   <sub>Mechatronics Engineering @ University of Waterloo</sub>
 </p>
 
