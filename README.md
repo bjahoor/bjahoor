@@ -38,25 +38,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ros,cpp,py,opencv,pytorch,docker,linux,raspberrypi&theme=dark&perline=8" alt="ROS2, C++, Python, OpenCV, PyTorch, Docker, Linux, Raspberry Pi"/>
 </p>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <h3>🦿</h3>
-  <b>Embodied AI</b><br/>
-  <sub>VLA policies, RL in Isaac Lab,<br/>sim-to-real transfer</sub>
-</td>
-<td align="center" width="33%">
-  <h3>👁️</h3>
-  <b>Perception</b><br/>
-  <sub>Depth streams, open-vocab<br/>detection, real-time pipelines</sub>
-</td>
-<td align="center" width="33%">
-  <h3>🧭</h3>
-  <b>Autonomy</b><br/>
-  <sub>ROS2 nav stacks, LiDAR<br/>cost maps, path planning</sub>
-</td>
-</tr>
-</table>
