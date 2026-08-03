@@ -1,7 +1,7 @@
 <h1 align="center">Brandon Jahoor</h1>
 
 <p align="center">
-  <sub>Mechatronics Engineering @ University of Waterloo</sub>
+  <sub>Mechatronics Engineering @ University of Waterloo &nbsp;|&nbsp; RoboHub &nbsp;|&nbsp; Bay Area Co-op</sub>
 </p>
 
 <p align="center">
