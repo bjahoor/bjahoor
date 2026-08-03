@@ -14,7 +14,7 @@
   </a>
   &nbsp;
   <a href="https://bjahoor.github.io/">
-    <img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20MY%20PORTFOLIO-8957e5?style=for-the-badge&labelColor=0d1117" height="42" alt="View my portfolio"/>
+    <img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20MY%20PORTFOLIO-5D0096?style=for-the-badge&labelColor=0d1117" height="42" alt="View my portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/bjahoor">
