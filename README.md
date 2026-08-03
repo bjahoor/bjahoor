@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-uploads.huggingface.co/production/uploads/67b8da81d01134f89899b4a7/JcqU-GuWf_yLQBQh9xrCp.gif" width="150" alt="Animated robot"/>
+  <img src="SO-ARM101-ACT-DEMO.gif" width="460" alt="SO-ARM101 robotic arm autonomously picking and placing a block using a learned ACT policy"/>
 </p>
 
 <h1 align="center">Brandon Jahoor</h1>
