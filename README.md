@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://bjahoor.github.io/">
-    <img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20MY%20PORTFOLIO-4da6ff?style=for-the-badge&labelColor=0d1117" height="42" alt="View my portfolio"/>
+  <a href="https://bjahoor.github.io/resume.pdf">
+    <img src="https://img.shields.io/badge/RESUME-2ea043?style=for-the-badge&logoColor=white" height="42" alt="Resume"/>
   </a>
   &nbsp;
-  <a href="https://bjahoor.github.io/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logoColor=white" height="42" alt="Resume"/>
+  <a href="https://bjahoor.github.io/">
+    <img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20MY%20PORTFOLIO-4da6ff?style=for-the-badge&labelColor=0d1117" height="42" alt="View my portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/bjahoor">
