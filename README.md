@@ -19,6 +19,10 @@
   <a href="https://bjahoor.github.io/">
     <img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20MY%20PORTFOLIO-4da6ff?style=for-the-badge&labelColor=0d1117" height="42" alt="View my portfolio"/>
   </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bjahoor">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
@@ -60,9 +64,3 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/bjahoor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
