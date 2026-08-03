@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bjahoor.github.io/resume.pdf">
+  <a href="https://bjahoor.github.io/brandon_jahoor_resume.pdf">
     <img src="https://img.shields.io/badge/RESUME-57606a?style=for-the-badge&logoColor=white" height="42" alt="Resume"/>
   </a>
   &nbsp;
