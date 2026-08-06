@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>I'm the guy who makes robots actually do things.</i>
+  <i>I give robots the ability to perceive, decide, and act.</i>
 </p>
 
 <p align="center">
